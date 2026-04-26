@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-<!-- Link to code -->
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-450/original/Checkers_v24.py)
 
 ---
 
 ## Enhanced Artifact
 
-<!-- Link to code -->
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-450/enhanced/Checkers_v24.py)
 
 ---
 
