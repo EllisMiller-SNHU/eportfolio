@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-<!-- Link to code -->
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original/)
 
 ---
 
 ## Enhanced Artifact
 
-<!-- Link to code -->
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/enhanced)
 
 ---
 
