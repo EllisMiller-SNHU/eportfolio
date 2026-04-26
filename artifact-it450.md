@@ -10,7 +10,7 @@
 
 ## Enhanced Artifact
 
-[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-450/enhanced/Checkers_v24.py)
+[IT 450 Enhanced Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-450/enhanced/Checkers_v24.py)
 
 ---
 
