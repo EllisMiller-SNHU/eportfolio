@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-[CS 340 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-340/original/ProjectTwoDashboard.ipynb)
+[CS 340 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-340/original/ProjectTwoDashboard.ipynb)
 
 ---
 
 ## Enhanced Artifact
 
-[CS 340 Enhanced Artifact]([artifact-340/enhanced/ProjectTwoDashboard.ipynb](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-340/enhanced/ProjectTwoDashboard.ipynb))
+[CS 340 Enhanced Artifact]([artifact-340/enhanced/ProjectTwoDashboard.ipynb](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-340/enhanced/ProjectTwoDashboard.ipynb))
 
 ---
 
