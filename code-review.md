@@ -1,7 +1,7 @@
 # Code Review
 ## CS 340 Artifact Before Enhancement
 
-<!-- Link to codebase -->
+[CS 340 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-340/original/ProjectTwoDashboard.ipynb)
 
 ---
 
@@ -28,7 +28,7 @@ The planned enhancement focuses on restructuring the application into a more mod
 
 ## IT 450 Artifact Before Enhancement
 
-<!-- Link to codebase -->
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/blob/main/artifact-450/original/Checkers_v24.py)
 
 ---
 
@@ -59,7 +59,7 @@ The planned enhancement focuses on improving software design by introducing bett
 
 ## CS 360 Artifact Before Enhancement
 
-<!-- Link to codebase -->
+[CS 360 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original)
 
 ---
 
