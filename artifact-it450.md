@@ -1,4 +1,4 @@
-# Software Design & Engineering Artifact
+# Algorithms and Data Structures Artifact
 
 ---
 
