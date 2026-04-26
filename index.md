@@ -8,11 +8,11 @@ This site demonstrates my growth across software engineering, algorithms, and da
 
 ## Navigation
 
-- [Self-Assessment](self-assessment.md)
-- [Code Reviews](code-review.md)
-- [Software Design & Engineering Artifact](artifact-1.md)
-- [Algorithms & Data Structures Artifact](artifact-2.md)
-- [Databases Artifact](artifact-3.md)
+- [Self-Assessment](self-assessment)
+- [Code Reviews](code-review)
+- [Software Design & Engineering Artifact](artifact-cs340)
+- [Algorithms & Data Structures Artifact](artifact-it450)
+- [Databases Artifact](artifact-cs360)
 
 ---
 
