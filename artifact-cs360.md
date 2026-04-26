@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original)
+[CS 360 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original)
 
 ---
 
 ## Enhanced Artifact
 
-[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/enhanced)
+[CS 360 Enhanced Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/enhanced)
 
 ---
 
