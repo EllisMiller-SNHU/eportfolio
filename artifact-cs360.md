@@ -4,7 +4,7 @@
 
 ## Original Artifact
 
-[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original/)
+[IT 450 Original Artifact](https://github.com/EllisMiller-SNHU/eportfolio/tree/main/artifact-360/original)
 
 ---
 
