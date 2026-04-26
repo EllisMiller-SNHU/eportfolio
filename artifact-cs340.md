@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-[CS 340 Original Artifact](artifact-340/orginal/ProjectTwoDashboard)
+[CS 340 Original Artifact](artifact-340/orginal/)
 
 ---
 
 ## Enhanced Artifact
 
-[CS 340 Enhanced Artifact](artifact-340/enhanced/ProjectTwoDashboard)
+[CS 340 Enhanced Artifact](artifact-340/enhanced/)
 
 ---
 
