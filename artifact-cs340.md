@@ -4,13 +4,13 @@
 
 ## Original Artifact
 
-<!-- Link to code -->
+[CS 340 Original Artifact](artifact-340/orginal/)
 
 ---
 
 ## Enhanced Artifact
 
-<!-- Link to code -->
+[CS 340 Original Artifact](artifact-340/enhanced/)
 
 ---
 
